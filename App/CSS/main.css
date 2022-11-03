@@ -1,0 +1,95 @@
+h1{
+			color: mediumblue;
+			text-align: center;
+			font-family: 'Marck Script', cursive;
+			font-size: 60px;
+}
+h2{
+color: deepskyblue;
+text-align: center;
+font-family: 'Marck Script', cursive;
+font-size: 35px;
+}
+footer{
+color: grey;
+font-size: 14px;
+text-align: center;
+}
+.main-headers{
+background-image: url(../img/img2.jpg);
+width: 100%;
+height: 450px;
+font-family: 'Marck Script', cursive;
+}
+h4{
+	color: deepskyblue;
+	font-size: 50px;
+	font-family: 'Marck Script', cursive;
+	text-align: center;
+}
+h5{
+	color: darkblue;
+	font-size: 26px;
+	border: 2px solid;
+	border-radius: 10px;
+	padding: 5px;
+}
+p{
+	font-size: 20px;
+	font-family: 'Pacifico', cursive;
+	margin: 0 25px;
+}
+ul{
+	font-size: 20px;
+	font-family: 'Pacifico', cursive;
+}
+li{
+	margin: 12px;
+	font-family: 'Pacifico', cursive;
+}
+img{
+	box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.5);
+	width: 100%;
+	height: auto;
+	margin: 0 -18px;
+}
+.center-inf{
+	width: 70%;
+	margin: auto;
+	font-family: 'Pacifico', cursive;
+	background-color: white;
+	box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.5);
+}
+.menu{
+	padding: 10px;
+	width: 100%;
+	margin: auto;
+	margin-bottom: 40px;
+}
+.menu td{
+	text-align: center;
+	max-width: 50px;
+}
+button{
+	font-size: 20px;
+	padding: 5px 15px;
+	border-radius: 15px;
+	color: mediumseagreen;
+	font-family: 'Marck Script', cursive;
+}
+.menu button:hover{
+	transform: scale(1.2);
+	transition: 0.5s;
+	color: darkblue;
+	background-color: deepskyblue;
+}
+h3{
+	font-family: 'Pacifico', cursive;
+	margin: 10px;
+}
+html{
+	background-image: url(../img/img3.jpg);
+}
+.broadcost{
+	margin: 10px 0px
+}
